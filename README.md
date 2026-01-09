@@ -8,7 +8,13 @@
 
 * Install an Apache Web Server
 
-* Downloadin Wordpress and Files
+* Downloading Wordpress and Files
+
+* Set up AWS RDS
+
+* Connect WordPress to RDS
+
+  
 
 
 
@@ -52,9 +58,38 @@
  
   * Download the WordPress files
  
-  * 
+  * Extract the Wordpresss files
+ 
+  * Navigate to the Wordpress directory
+ 
+  * Rename the file by moving the file
+ 
 
+  **SET UP AWS RDS**
 
+* Search and Select Aurora and RDS from the AWS Searchbar
+
+* Select Easy Create option
+
+* Select MySQL option
+
+* Selct Free Tier option
+
+* Select database-test1
+
+* Select a master-username
+
+* Select a master-password and then retype that master-password underneath
+
+* Select the Create Database button
+
+**Connecting Wordpress to RDS**
+
+* Select the Endpoint from newly created database
+
+* Go back to command prompt and type the following command
+
+* Enter the following information where neccasasryfrom when both setting up the database and when copying the endpoint 
 
 
 
