@@ -76,7 +76,7 @@
 
   * Update the package list
  <p align="center">  
-  <img src="resources/SSH into command prompt command.png" alt="Update the package list" width="900" />  
+  <img src="resources/command to update the package list.png" alt="Update the package list" width="900" />  
 </p>  
 
   * Install the Apache web server
