@@ -164,6 +164,44 @@
   <img src="resources/Create Database button at bottom.png" alt="Create Database button" width="900" />  
 </p>  
 
+* Select the Connectivity & Security followed by VPC security groups
+<p align="center">  
+  <img src="Navigate to VPC Security Group RDS.png" alt="Select Connectivity & Security tab" width="900" />  
+</p>  
+
+* Click on the Security Group ID already created
+<p align="center">  
+  <img src="click on Security Group id already created.png" alt="Click on security group id already created" width="900" />  
+</p>  
+
+* Click on Edit inbound rules
+<p align="center">  
+  <img src="Click Edit Inbound Rules .png" alt="Click on edit inbound rules" width="900" />  
+</p>  
+
+* Set up the inbound rules for the security group ( including attaching the EC2's instance security group as the source)
+  <p align="center">  
+  <img src="Connect to ther RDS database SQL.png" alt="Set up the RDS Inbound ruke" width="900" />  
+</p>  
+
+* Click Save rules
+   <p align="center">  
+  <img src="Click save rules bootom adding a security group rule.png" alt="Click Save rules button" width="900" />  
+</p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Connecting WordPress to RDS**
 
 * Select the Endpoint from the newly created database
