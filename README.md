@@ -180,12 +180,12 @@
 </p>  
 
 * Set up the inbound rules for the security group ( including attaching the EC2's instance security group as the source)
-  <p align="center">  
+<p align="center">  
   <img src="Connect to ther RDS database SQL.png" alt="Set up the RDS Inbound ruke" width="900" />  
 </p>  
 
 * Click Save rules
-   <p align="center">  
+<p align="center">  
   <img src="Click save rules bootom adding a security group rule.png" alt="Click Save rules button" width="900" />  
 </p> 
 
