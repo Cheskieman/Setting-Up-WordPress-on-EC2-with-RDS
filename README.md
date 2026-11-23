@@ -209,15 +209,60 @@
   <img src="resources/Select Endpoint details from completed setup database.png" alt="Select Endpoint " width="900" />  
 </p>  
 
-* Go back to the command prompt and type the following command
+* Create the Wordpress database
 <p align="center">  
-  <img src="resources/Go back to command prompt and type the following command.png" alt="Back in command-prompt" width="900" />  
+  <img src="Login to the mysql database ssh.png" alt=Create Wordpress database " width="900" />  
 </p>  
 
-* Enter the following information where necessary, both when setting up the database and when copying the endpoint 
+* Create Database Name
 <p align="center">  
-  <img src="resources/Type RDS setup info into appropiate places.png" alt="Enter RDS Setup Info" width="900" />  
+  <img src="CREATE DATEBASE NAME .png" alt="Create Database Name" width="900" />  
 </p>  
+
+* Go back to the command prompt and type the following command
+<p align="center">  
+  <img src="sudo nano wp-config.png" alt="Back in command-prompt" width="900" />  
+</p>  
+
+* Enter the following information where necessary
+<p align="center">  
+  <img src="enter wordpress info file.png" alt="Enter RDS Setup Info" width="900" />  
+</p>  
+
+* Give Apache ownership of the WordPress files so it can read and write them
+<p align="center">  
+  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+</p> 
+
+<p align="center">  
+  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+</p> 
+
+<p align="center">  
+  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+</p> 
+
+<p align="center">  
+  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+</p> 
+
+<p align="center">  
+  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+</p> 
+
+
+
+
+
+
+
+* The Wordpress info home screen appears
+<p align="center">  
+  <img src="Wordpress info home screen.png" alt=Wordpress info Homescreen" width="900" />  
+</p> 
+
+
+  
 
 
 
