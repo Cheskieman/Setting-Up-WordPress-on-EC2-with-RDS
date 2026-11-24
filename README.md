@@ -204,10 +204,17 @@
 
 **Connecting WordPress to RDS**
 
+
 * Select the Endpoint from the newly created database
 <p align="center">  
   <img src="resources/Select Endpoint details from completed setup database.png" alt="Select Endpoint " width="900" />  
 </p>  
+
+
+* Install the mysql client
+<p align="center">  
+  <img src="mySQL PRELUDE.png" alt=Wordpress info Homescreen" width="900" />  
+</p> 
 
 * Create the Wordpress database
 <p align="center">  
@@ -231,24 +238,28 @@
 
 * Give Apache ownership of the WordPress files so it can read and write them
 <p align="center">  
-  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+  <img src="UBUNTU REPLACMENT COMMAND.png" alt="Give Apache Ownership" width="900" />  
 </p> 
 
+* Check if PHP is isntalled 
+<p align="center">  
+  <img src="Check if PHP is installed" alt="Check if PHPis installed" width="900" />  
+</p> 
+* Install PHP ( if not already done)
+<p align="center">  
+  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+</p> 
+* Restart Apache and Check if it is running 
 <p align="center">  
   <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
 </p> 
 
 <p align="center">  
   <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
-</p> 
+</p>
 
-<p align="center">  
-  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
-</p> 
 
-<p align="center">  
-  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
-</p> 
+
 
 
 
