@@ -243,7 +243,7 @@
 
 * Check if PHP is is installed 
 <p align="center">  
-  <img src="Check if PHP is installed.png" alt="Check if PHPis installed" width="900" />  
+  <img src="check if php is installed.png" alt="Check if PHPis installed" width="900" />  
 </p> 
 * Install PHP ( if not already done)
 <p align="center">  
