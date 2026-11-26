@@ -247,26 +247,16 @@
 </p> 
 * Install PHP ( if not already done)
 <p align="center">  
-  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+  <img src="UBUNTU INSTALL PHP .png" alt="Install PHP" width="900" />  
 </p> 
 * Restart Apache and Check if it is running 
 <p align="center">  
-  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+  <img src="RESTART AND CHECK STATUS PHP.png" alt="Restart Apache" width="900" />  
 </p> 
-
+* Type this url into the browser
 <p align="center">  
-  <img src="give apache ownership to wordpress file.png" alt="Give Apache Ownership" width="900" />  
+  <img src="put the public ip for wordpress into url.png" alt="Type the URL into the browser" width="900" />  
 </p>
-
-
-
-
-
-
-
-
-
-
 * The Wordpress info home screen appears
 <p align="center">  
   <img src="Wordpress info home screen.png" alt=Wordpress info Homescreen" width="900" />  
